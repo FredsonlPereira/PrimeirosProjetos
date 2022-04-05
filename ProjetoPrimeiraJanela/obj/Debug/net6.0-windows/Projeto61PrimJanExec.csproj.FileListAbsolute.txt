@@ -1,0 +1,51 @@
+C:\CursoCSharp\Projeto61PrimJanExec\bin\Debug\net6.0-windows\Projeto61PrimJanExec.exe
+C:\CursoCSharp\Projeto61PrimJanExec\bin\Debug\net6.0-windows\Projeto61PrimJanExec.deps.json
+C:\CursoCSharp\Projeto61PrimJanExec\bin\Debug\net6.0-windows\Projeto61PrimJanExec.runtimeconfig.json
+C:\CursoCSharp\Projeto61PrimJanExec\bin\Debug\net6.0-windows\Projeto61PrimJanExec.dll
+C:\CursoCSharp\Projeto61PrimJanExec\bin\Debug\net6.0-windows\Projeto61PrimJanExec.pdb
+C:\CursoCSharp\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.csproj.AssemblyReference.cache
+C:\CursoCSharp\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.csproj.GenerateResource.cache
+C:\CursoCSharp\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoCSharp\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.AssemblyInfoInputs.cache
+C:\CursoCSharp\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.AssemblyInfo.cs
+C:\CursoCSharp\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.dll
+C:\CursoCSharp\Projeto61PrimJanExec\obj\Debug\net6.0-windows\refint\Projeto61PrimJanExec.dll
+C:\CursoCSharp\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.pdb
+C:\CursoCSharp\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.genruntimeconfig.cache
+C:\CursoCSharp\Projeto61PrimJanExec\obj\Debug\net6.0-windows\ref\Projeto61PrimJanExec.dll
+C:\CursoCSharp\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.F_Principal.resources
+D:\01\Projeto61PrimJanExec\bin\Debug\net6.0-windows\Projeto61PrimJanExec.exe
+D:\01\Projeto61PrimJanExec\bin\Debug\net6.0-windows\Projeto61PrimJanExec.deps.json
+D:\01\Projeto61PrimJanExec\bin\Debug\net6.0-windows\Projeto61PrimJanExec.runtimeconfig.json
+D:\01\Projeto61PrimJanExec\bin\Debug\net6.0-windows\Projeto61PrimJanExec.dll
+D:\01\Projeto61PrimJanExec\bin\Debug\net6.0-windows\Projeto61PrimJanExec.pdb
+D:\01\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.csproj.AssemblyReference.cache
+D:\01\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.F_Principal.resources
+D:\01\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.csproj.GenerateResource.cache
+D:\01\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.GeneratedMSBuildEditorConfig.editorconfig
+D:\01\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.AssemblyInfoInputs.cache
+D:\01\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.AssemblyInfo.cs
+D:\01\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.csproj.CoreCompileInputs.cache
+D:\01\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.dll
+D:\01\Projeto61PrimJanExec\obj\Debug\net6.0-windows\refint\Projeto61PrimJanExec.dll
+D:\01\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.pdb
+D:\01\Projeto61PrimJanExec\obj\Debug\net6.0-windows\Projeto61PrimJanExec.genruntimeconfig.cache
+D:\01\Projeto61PrimJanExec\obj\Debug\net6.0-windows\ref\Projeto61PrimJanExec.dll
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\bin\Debug\net6.0-windows\Projeto61PrimJanExec.exe
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\bin\Debug\net6.0-windows\Projeto61PrimJanExec.deps.json
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\bin\Debug\net6.0-windows\Projeto61PrimJanExec.runtimeconfig.json
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\bin\Debug\net6.0-windows\Projeto61PrimJanExec.dll
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\bin\Debug\net6.0-windows\Projeto61PrimJanExec.pdb
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\obj\Debug\net6.0-windows\Projeto61PrimJanExec.csproj.AssemblyReference.cache
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\obj\Debug\net6.0-windows\Projeto61PrimJanExec.F_Principal.resources
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\obj\Debug\net6.0-windows\Projeto61PrimJanExec.csproj.GenerateResource.cache
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\obj\Debug\net6.0-windows\Projeto61PrimJanExec.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\obj\Debug\net6.0-windows\Projeto61PrimJanExec.AssemblyInfoInputs.cache
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\obj\Debug\net6.0-windows\Projeto61PrimJanExec.AssemblyInfo.cs
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\obj\Debug\net6.0-windows\Projeto61PrimJanExec.csproj.CoreCompileInputs.cache
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\obj\Debug\net6.0-windows\Projeto61PrimJanExec.dll
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\obj\Debug\net6.0-windows\refint\Projeto61PrimJanExec.dll
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\obj\Debug\net6.0-windows\Projeto61PrimJanExec.pdb
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\obj\Debug\net6.0-windows\Projeto61PrimJanExec.genruntimeconfig.cache
+C:\CSharp\CFB Cursos\ProjetoPrimeiraJanela\obj\Debug\net6.0-windows\ref\Projeto61PrimJanExec.dll

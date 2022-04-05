@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="F_ComboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_CheckedListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_DateTimePicker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_FilhoCheckBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_ListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_ListaDeProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_MaskedTextBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_NumericUpdDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_PaiCheckBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_PictureBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_Produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_ProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="F_Radiobutton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,62 @@
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.csproj.AssemblyReference.cache
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_Principal.resources
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.Properties.Resources.resources
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.csproj.GenerateResource.cache
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.AssemblyInfoInputs.cache
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.AssemblyInfo.cs
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_Produtos.resources
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_CheckedListBox.resources
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_ComboBox.resources
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_DateTimePicker.resources
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_FilhoCheckBox.resources
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_MaskedTextBox.resources
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_NumericUpdDown.resources
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_PaiCheckBox.resources
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.dll
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\refint\Projeto62Janelas.dll
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.pdb
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_ListBox.resources
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_ListaDeProdutos.resources
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_PictureBox.resources
+C:\CursoCSharp\Projeto62CompTextBox\bin\Debug\net6.0-windows\Projeto62Janelas.exe
+C:\CursoCSharp\Projeto62CompTextBox\bin\Debug\net6.0-windows\Projeto62Janelas.deps.json
+C:\CursoCSharp\Projeto62CompTextBox\bin\Debug\net6.0-windows\Projeto62Janelas.runtimeconfig.json
+C:\CursoCSharp\Projeto62CompTextBox\bin\Debug\net6.0-windows\Projeto62Janelas.dll
+C:\CursoCSharp\Projeto62CompTextBox\bin\Debug\net6.0-windows\Projeto62Janelas.pdb
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.genruntimeconfig.cache
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\ref\Projeto62Janelas.dll
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_ProgressBar.resources
+C:\CursoCSharp\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_Radiobutton.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\bin\Debug\net6.0-windows\Projeto62Janelas.exe
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\bin\Debug\net6.0-windows\Projeto62Janelas.deps.json
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\bin\Debug\net6.0-windows\Projeto62Janelas.runtimeconfig.json
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\bin\Debug\net6.0-windows\Projeto62Janelas.dll
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\bin\Debug\net6.0-windows\Projeto62Janelas.pdb
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.csproj.AssemblyReference.cache
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_CheckedListBox.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_ComboBox.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_DateTimePicker.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_FilhoCheckBox.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_Principal.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_ListaDeProdutos.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_ListBox.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_MaskedTextBox.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_NumericUpdDown.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_PaiCheckBox.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_PictureBox.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_Produtos.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_ProgressBar.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.F_Radiobutton.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.Properties.Resources.resources
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.csproj.GenerateResource.cache
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.AssemblyInfoInputs.cache
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.AssemblyInfo.cs
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.csproj.CoreCompileInputs.cache
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.dll
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\refint\Projeto62Janelas.dll
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.pdb
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\Projeto62Janelas.genruntimeconfig.cache
+C:\CSharp\CFB Cursos\Projeto62CompTextBox\obj\Debug\net6.0-windows\ref\Projeto62Janelas.dll

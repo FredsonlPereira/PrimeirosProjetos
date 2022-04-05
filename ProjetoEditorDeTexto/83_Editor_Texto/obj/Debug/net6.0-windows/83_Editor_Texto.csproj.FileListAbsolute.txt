@@ -1,0 +1,72 @@
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.exe
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.deps.json
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.runtimeconfig.json
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.dll
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.pdb
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.csproj.AssemblyReference.cache
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\_83_Editor_Texto.Form1.resources
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\_83_Editor_Texto.Properties.Resources.resources
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.csproj.GenerateResource.cache
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.AssemblyInfoInputs.cache
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.AssemblyInfo.cs
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.csproj.CoreCompileInputs.cache
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.dll
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\refint\83_Editor_Texto.dll
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.pdb
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.genruntimeconfig.cache
+C:\Users\freds\source\repos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\ref\83_Editor_Texto.dll
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.exe
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.deps.json
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.runtimeconfig.json
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.dll
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.pdb
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.csproj.AssemblyReference.cache
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\_83_Editor_Texto.Form1.resources
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\_83_Editor_Texto.Properties.Resources.resources
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.csproj.GenerateResource.cache
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.AssemblyInfoInputs.cache
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.AssemblyInfo.cs
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.csproj.CoreCompileInputs.cache
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.dll
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\refint\83_Editor_Texto.dll
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.pdb
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.genruntimeconfig.cache
+C:\Projetos C#\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\ref\83_Editor_Texto.dll
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.exe
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.deps.json
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.runtimeconfig.json
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.dll
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.pdb
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.csproj.AssemblyReference.cache
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\_83_Editor_Texto.Form1.resources
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\_83_Editor_Texto.Properties.Resources.resources
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.csproj.GenerateResource.cache
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.AssemblyInfoInputs.cache
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.AssemblyInfo.cs
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.csproj.CoreCompileInputs.cache
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.dll
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\refint\83_Editor_Texto.dll
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.pdb
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.genruntimeconfig.cache
+D:\Projetos C#\CFB Cursos\Editor_de_Texto\83_Editor_Texto\obj\Debug\net6.0-windows\ref\83_Editor_Texto.dll
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.exe
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.deps.json
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.runtimeconfig.json
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.dll
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\bin\Debug\net6.0-windows\83_Editor_Texto.pdb
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.csproj.AssemblyReference.cache
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\obj\Debug\net6.0-windows\_83_Editor_Texto.Form1.resources
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\obj\Debug\net6.0-windows\_83_Editor_Texto.Properties.Resources.resources
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.csproj.GenerateResource.cache
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.AssemblyInfoInputs.cache
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.AssemblyInfo.cs
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.csproj.CoreCompileInputs.cache
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.dll
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\obj\Debug\net6.0-windows\refint\83_Editor_Texto.dll
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.pdb
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\obj\Debug\net6.0-windows\83_Editor_Texto.genruntimeconfig.cache
+C:\CSharp\CFB Cursos\ProjetoEditorDeTexto\83_Editor_Texto\obj\Debug\net6.0-windows\ref\83_Editor_Texto.dll
